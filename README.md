@@ -2,4 +2,7 @@
 Navigate through the world of data analysis using microsoft excel as the first and essential tools of an data analyst 
 ##microsoft excel tool
 ##project on microsoft excel
-As a data analyst the first thing you need to any data is to clean and format you data
+As a data analyst the first thing you need to do to any data is to clean and format you data
+I got my data from kaggle it's an online sales dataset
+what are my objectives of the data
+*identify the top selling products
