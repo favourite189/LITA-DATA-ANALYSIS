@@ -19,7 +19,7 @@ Pivot table
 - 5.Analysis sales by region
 - 6.Investigate the impact of payment methods on sales revenue 
 - 7.Analyze sales trends over time to identify seasonal patterns
--  
+  
 #### Data cleaning
 The first process is to clean the Data
 - 1.Data loading and inspection 
@@ -29,7 +29,7 @@ The first process is to clean the Data
 #### Data analysis
 - 1.Total sales revenue 
 Using the sum formula 
-`SUM
+~~SUM
 
 2.using my pivot table for summarization of my data and sorting from descending order
 The top selling product category is Electronics 
