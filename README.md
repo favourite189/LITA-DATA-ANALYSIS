@@ -6,12 +6,12 @@ The data analysis project aims to generate insights into the sales performance o
 #### data source 
 The primary source of data used from online sales data gotten from kaggle
 #### tools
-Microsoft excel 
+Microsoft excel and
 Pivot table
 #### project insight
-Evaluate the total sales revenue 
-Total numbers of transactions 
-Identity top selling products category and product name 
+- 1.Evaluate the total sales revenue 
+2.Total numbers of transactions 
+3.Identity top selling products category and product name 
 Evaluate the performance of specific products category in different regions 
 Analysis sales by region
 Investigate the impact of payment methods on sales revenue 
