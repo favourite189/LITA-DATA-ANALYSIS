@@ -10,12 +10,12 @@ Microsoft excel and
 Pivot table
 #### project insight
 - 1.Evaluate the total sales revenue 
-2.Total numbers of transactions 
-3.Identity top selling products category and product name 
-Evaluate the performance of specific products category in different regions 
-Analysis sales by region
-Investigate the impact of payment methods on sales revenue 
-Analyze sales trends over time to identify seasonal patterns 
+- 2.Total numbers of transactions 
+  - 3.Identity top selling products category and product name 
+- 4.Evaluate the performance of specific products category in different regions 
+- 5.Analysis sales by region
+- 6.Investigate the impact of payment methods on sales revenue 
+- 7.Analyze sales trends over time to identify seasonal patterns 
 #### data cleaning
 The first process is to clean the Data
 1.Data loading and inspection 
