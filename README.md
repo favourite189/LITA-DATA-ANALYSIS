@@ -23,15 +23,15 @@ Pivot table
 #### Data cleaning
 The first process is to clean the Data
 - 1.Data loading and inspection 
-- 2.handling missing data
+- 2.Handling missing data
   - 3.Data cleaning and formatting
     
 #### Data analysis
 - 1.Total sales revenue 
-Using the sum formula 
-~~SUM
+Using the sum formula
+```SUM
 
-2.using my pivot table for summarization of my data and sorting from descending order
+- 2.using my pivot table for summarization of my data and sorting from descending order
 The top selling product category is Electronics 
 The top selling products name
 Canon Eos Rs camera
