@@ -29,21 +29,8 @@ The first process is to clean the Data
 #### Data analysis
 - 1.Total sales revenue 
 Using the sum formula
-```SUM
-
-- 2.using my pivot table for summarization of my data and sorting from descending order
-The top selling product category is Electronics 
-The top selling products name
-Canon Eos Rs camera
-3.Analysed sales by region using my pivot table
-North American 
-Asia
-Europe 
-4.My analysis shows that North America use credit card with total revenue of 36,844
-Europe use PayPal what the total revenue of 21,268
-Asia region uses both credit card and debit card with the total revenue of 14,327 and 8,129 respectively which implies that Asia region uses credit card more than debit card.
-5.I analyzed my data by each month and quarterly 
-Starting from January 
+```excel
+=SUM(G1:G240)
 
 
 
