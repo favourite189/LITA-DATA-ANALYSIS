@@ -32,7 +32,7 @@ Using the sum formula
 ```excel
 =SUM(G2,Table2[Total Revenue])
 
--2.Total number of transactions
+- 2.Total number of transactions
 using the count formula
 ```excel
 =COUNT(Table2[Transaction ID]
