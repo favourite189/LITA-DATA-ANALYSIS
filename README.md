@@ -30,7 +30,7 @@ The first process is to clean the Data
 - 1.Total sales revenue 
 Using the sum formula
 ```excel
-=SUM(G1:G240)
+=SUM(G2,Table2[Total Revenue])
 
 
 
