@@ -1,19 +1,19 @@
-###### LITA-DATA-ANALYSIS
-#### Project title:online e commerce sales
+######  LITA-DATA-ANALYSIS
+#####  Project title:online e commerce sales
 
-#### Project overview
+#####  Project overview
 The data analysis project aims to generate insights into the sales performance of an E commerce store over the 8 months in the year 2024,By analyzing the various parameters in the data received we seek to gather enough to make reasonable decisions which then enable us to tell compelling stories around our data from insight gotten and to know the best performance from our data
 
-#### Data source 
+##### Data source 
 The primary source of data used from online sales data gotten from kaggle
 
-#### Data collected
+#####  Data collected
 There are 6 
-#### Data tools
+#####  Data tools
 -1.Microsoft excel 
 (Pivot table)
 
-#### Project insight
+#####  Project insight
 - 1.Evaluate the total sales revenue 
 - 2.Total numbers of transactions
 - 3.Identity top selling products category and product name 
@@ -22,39 +22,42 @@ There are 6
 - 6.Investigate the impact of payment methods on sales revenue 
 - 7.Analyze sales trends over time to identify seasonal patterns
   
-#### Data cleaning
+#####  Data cleaning
 The first process is to clean the Data
 - 1.Data loading and inspection 
 - 2.Handling missing data
 - 3.Data cleaning and formatting
     
-#### Analysing of data using the aggregate function
+#####  Analysing of data using the aggregate function
 - 1.Total sales revenue
 - 2.Total number of transactions
 using the count formula
 using the sum formula
-  =SUM(G2,Table2[Total Revenue])
 
+ ```excel
+ =SUM(G2,Table2[Total Revenue])
+=COUNT
+```
 ### Performance of payment method on revenue in different region 
 
--1. Credit cards are the most popular payment method in North America and Asia with the total sales revenue of 36,844 and 14,327 respectively
+1. Credit cards are the most popular payment method in North America and Asia with the total sales revenue of 36,844 and 14,327 respectively
 
--2. Europe exclusively uses PayPal for payments with the total sales revenue of 21,268
+2. Europe exclusively uses PayPal for payments with the total sales revenue of 21,268
 
--3. Debit cards are primarily used in Asia with the total sales of 8,129
+3. Debit cards are primarily used in Asia with the total sales of 8,129
 
--4. North America has the highest credit card sales value while Asia has the second-highest
+4. North America has the highest credit card sales value while Asia has the second-highest
 
--5. Asia credit card sales surpass its debit card sales.
+5. Asia credit card sales surpass its debit card sales.
 
 
 ### Strategic Implications:
 
--.Credit Card:  Target credit card marketing efforts in North America where it's most popular 
+Credit Card:  Target credit card marketing efforts in North America where it's most popular 
 
--.Debit Cards: Increase debit card payment adoption in Asia and offer debit card reward or discount 
+.Debit Cards: Increase debit card payment adoption in Asia and offer debit card reward or discount 
 
--.PayPal:European Market:Maintain strong PayPal payment options for European customers.
+.PayPal:European Market:Maintain strong PayPal payment options for European customers.
 
 ### Revenue Trends:
 
