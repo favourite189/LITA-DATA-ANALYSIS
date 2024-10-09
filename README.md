@@ -32,13 +32,14 @@ The first process is to clean the Data
 - 1.Total sales revenue
 - 2.Total number of transactions
 using the count formula
-Using the sum formula
-```excel
-=SUM(G2,Table2[Total Revenue])
+using the sum formula
+```=SUM(G2,Table2[Total Revenue])
+
+
 =count(
 
 
-/###Performance of payment method on revenue in different region 
+###Performance of payment method on revenue in different region 
 
 -1. Credit cards are the most popular payment method in North America and Asia with the total sales revenue of 36,844 and 14,327 respectively 
 -2. Europe exclusively uses PayPal for payments with the total sales revenue of 21,268
