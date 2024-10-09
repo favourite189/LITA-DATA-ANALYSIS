@@ -33,30 +33,30 @@ The first process is to clean the Data
 - 2.Total number of transactions
 using the count formula
 using the sum formula
-```=SUM(G2,Table2[Total Revenue])
+  =SUM(G2,Table2[Total Revenue])
 
+### Performance of payment method on revenue in different region 
 
-=count(
+-1. Credit cards are the most popular payment method in North America and Asia with the total sales revenue of 36,844 and 14,327 respectively
 
-
-###Performance of payment method on revenue in different region 
-
--1. Credit cards are the most popular payment method in North America and Asia with the total sales revenue of 36,844 and 14,327 respectively 
 -2. Europe exclusively uses PayPal for payments with the total sales revenue of 21,268
+
 -3. Debit cards are primarily used in Asia with the total sales of 8,129
--4. North America has the highest credit card sales value while Asia has the second-highest 
+
+-4. North America has the highest credit card sales value while Asia has the second-highest
+
 -5. Asia credit card sales surpass its debit card sales.
 
 
-###Strategic Implications:
+### Strategic Implications:
 
-Credit Card:  Target credit card marketing efforts in North America where it's most popular 
+-.Credit Card:  Target credit card marketing efforts in North America where it's most popular 
 
-Debit Cards: Increase debit card payment adoption in Asia and offer debit card reward or discount 
-PayPal:
- European Market:Maintain strong PayPal payment options for European customers.
+-.Debit Cards: Increase debit card payment adoption in Asia and offer debit card reward or discount 
 
-###Revenue Trends:
+-.PayPal:European Market:Maintain strong PayPal payment options for European customers.
+
+### Revenue Trends:
 
 1. Growth Opportunity:Credit card sales are expected to continue growing in North America and Asia
 2. Stable Revenue:Debit card sales in Asia provide a stable revenue stream.
