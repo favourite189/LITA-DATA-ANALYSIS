@@ -54,9 +54,9 @@ using the sum formula
 
 Credit Card:  Target credit card marketing efforts in North America where it's most popular 
 
-.Debit Cards: Increase debit card payment adoption in Asia and offer debit card reward or discount 
+Debit Cards: Increase debit card payment adoption in Asia and offer debit card reward or discount 
 
-.PayPal:European Market:Maintain strong PayPal payment options for European customers.
+PayPal:European Market:Maintain strong PayPal payment options for European customers.
 
 ### Revenue Trends:
 
@@ -71,15 +71,24 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
 
 ### Regional Product Category Performance:
 
-#### North America:
-    -1.Highest: Electronics (34,982)
-    -2.Lowest: Books (1,862)
- #### Europe:
-    -1. Highest: Home Appliances (18,646)
-    -2. Lowest: Beauty Products (2,622)
-#### Asia:
-    - 1.Highest: Sports (14,327)
-    - 2.Lowest: Clothing (8,129)
+#### North America
+     
+    
+    *Lowest
+    Books 
+ #### Europe
+    * Highest
+    Home Appliances
+    
+    
+    * Lowest
+    Beauty Products 
+#### Asia
+    *Highest
+    Sports 
+    
+    *Lowest
+    Clothing 
 
 #### Marketing Campaign Tailoring:
 
