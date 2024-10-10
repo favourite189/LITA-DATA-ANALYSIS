@@ -145,7 +145,7 @@ PayPal:European Market:Maintain strong PayPal payment options for European custo
 
 
 ## Analysed sales by region using my pivot table
-
+![image alt](https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-09%20074056.png)
 
 
 The top selling product category is Electronics 
