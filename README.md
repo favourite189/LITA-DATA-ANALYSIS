@@ -7,6 +7,26 @@ The data analysis project aims to generate insights into the sales performance o
 ### Data source 
 The primary source of data used from online sales data gotten from kaggle
 
+### Data collected
+They are 9 column in the data
+
+##### Transactions id
+They are unique identification number of each customers who purchase from the store
+##### Date
+The date when the customers purchse their goods
+##### product category
+The categorized product available in the store
+##### product name
+The name of the categorized product available in the store
+##### unit sold
+The quantity of the product purchased 
+##### Unit price
+The price of unit sold purchased
+##### payment method
+The payment customers uesd in purchasing their product
+##### Total revenue
+The total amount of unit sold multiply by the unit price
+
 ### Data tools
 - 1.Microsoft excel 
 (Pivot table)
