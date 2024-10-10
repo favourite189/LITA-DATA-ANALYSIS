@@ -1,4 +1,4 @@
-#  LITA-DATA-ANALYSIS
+#  LITA-DATA-ANALYSIS-PROJECT
 ## Project title:online e commerce sales
 
 ### Project overview
