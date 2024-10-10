@@ -1,19 +1,17 @@
-######  LITA-DATA-ANALYSIS
-#####  Project title:online e commerce sales
+#  LITA-DATA-ANALYSIS
+## Project title:online e commerce sales
 
-#####  Project overview
+### Project overview
 The data analysis project aims to generate insights into the sales performance of an E commerce store over the 8 months in the year 2024,By analyzing the various parameters in the data received we seek to gather enough to make reasonable decisions which then enable us to tell compelling stories around our data from insight gotten and to know the best performance from our data
 
-##### Data source 
+### Data source 
 The primary source of data used from online sales data gotten from kaggle
 
-#####  Data collected
-There are 6 
-#####  Data tools
+### Data tools
 -1.Microsoft excel 
 (Pivot table)
 
-#####  Project insight
+### Project insight
 - 1.Evaluate the total sales revenue 
 - 2.Total numbers of transactions
 - 3.Identity top selling products category and product name 
@@ -22,13 +20,13 @@ There are 6
 - 6.Investigate the impact of payment methods on sales revenue 
 - 7.Analyze sales trends over time to identify seasonal patterns
   
-#####  Data cleaning
+###  Data cleaning
 The first process is to clean the Data
 - 1.Data loading and inspection 
 - 2.Handling missing data
 - 3.Data cleaning and formatting
     
-#####  Analysing of data using the aggregate function
+### Analysing of data using the aggregate function
 - 1.Total sales revenue
 - 2.Total number of transactions
 using the count formula
@@ -52,7 +50,7 @@ using the sum formula
 5. Asia credit card sales surpass its debit card sales.
 
 
-## Strategic Implications:
+### Strategic Implications:
 
 Credit Card:  Target credit card marketing efforts in North America where it's most popular 
 
@@ -60,7 +58,7 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
 
 .PayPal:European Market:Maintain strong PayPal payment options for European customers.
 
-## Revenue Trends:
+### Revenue Trends:
 
 1. Growth Opportunity:Credit card sales are expected to continue growing in North America and Asia
 2. Stable Revenue:Debit card sales in Asia provide a stable revenue stream.
@@ -69,21 +67,21 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
 ### Conclusion
  Conduct market research to understand customer preferences and pin points in each region.
 
- #### Evaluation of Product Categories and Marketing Campaign Tailoring
+ ## Evaluation of Product Categories and Marketing Campaign Tailoring
 
-## Regional Product Category Performance:
+### Regional Product Category Performance:
 
-# North America:
+#### North America:
     -1.Highest: Electronics (34,982)
     -2.Lowest: Books (1,862)
- # Europe:
+ #### Europe:
     -1. Highest: Home Appliances (18,646)
     -2. Lowest: Beauty Products (2,622)
-# Asia:
+#### Asia:
     - 1.Highest: Sports (14,327)
     - 2.Lowest: Clothing (8,129)
 
-## Marketing Campaign Tailoring:
+#### Marketing Campaign Tailoring:
 
 -1. North America: Focus on electronics marketing campaigns.
     - Target tech-savvy consumers.
@@ -103,7 +101,7 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
 
 -3. Home appliances : Highest revenue in eruope(18,642)
 
-## Strategic Implications
+#### Strategic Implications
 
 -1. Region-specific product offerings
  
@@ -115,7 +113,7 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
  
 -5. Continuous monitoring of sales data to adjust strategies
 
-## Revenue Trends Analysis:
+#### Revenue Trends Analysis:
 
 -1. North America's electronics market is saturated, consider expanding product lines
    
@@ -123,7 +121,7 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
 -3. Asia's sports market is growing rapidly, investing in marketing campaigns.
 
 
-## Actionable Recommendations:
+#### Actionable Recommendations:
 
 -1. Conduct market research to understand Asia's clothing market growth
   
@@ -136,7 +134,7 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
 -5.Explore partnerships with Asian fashion influencers
 
 
-### Analysed sales by region using my pivot table
+## Analysed sales by region using my pivot table
 
 
 
