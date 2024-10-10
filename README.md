@@ -8,7 +8,7 @@ The data analysis project aims to generate insights into the sales performance o
 The primary source of data used from online sales data gotten from kaggle
 
 ### Data tools
--1.Microsoft excel 
+- 1.Microsoft excel 
 (Pivot table)
 
 ### Project insight
@@ -29,12 +29,10 @@ The first process is to clean the Data
 ### Analysing of data using the aggregate function
 - 1.Total sales revenue
 - 2.Total number of transactions
-using the count formula
-using the sum formula
-
+ 
  ```excel
  =SUM(G2,Table2[Total Revenue])
-=COUNT
+=COUNT([Transaction ID]
 ```
 ### Performance of payment method on revenue in different region 
 ![image alt](https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-10%20100626.png)
