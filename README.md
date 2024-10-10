@@ -70,7 +70,7 @@ PayPal:European Market:Maintain strong PayPal payment options for European custo
  ## Evaluation of Product Categories and Marketing Campaign Tailoring
 
 ### Regional Product Category Performance:
-![image alt](https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-09%20074116.png)
+![image alt](https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-10%20095807.png)
 
 
 
