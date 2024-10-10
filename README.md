@@ -52,7 +52,7 @@ https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-1
 5. Asia credit card sales surpass its debit card sales.
 
 
-### Strategic Implications:
+## Strategic Implications:
 
 Credit Card:  Target credit card marketing efforts in North America where it's most popular 
 
@@ -60,13 +60,13 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
 
 .PayPal:European Market:Maintain strong PayPal payment options for European customers.
 
-### Revenue Trends:
+## Revenue Trends:
 
 1. Growth Opportunity:Credit card sales are expected to continue growing in North America and Asia
 2. Stable Revenue:Debit card sales in Asia provide a stable revenue stream.
 3. Diversification: Consider diversifying payment methods to reduce dependence on credit cards.
 
-#### Conclusion
+### Conclusion
  Conduct market research to understand customer preferences and pin points in each region.
 
 #### Evaluation of Product Categories and Marketing Campaign Tailoring
@@ -74,8 +74,8 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
 ## Regional Product Category Performance:
 
 -1. North America:
-    -Highest: Electronics (34,982)
-    -Lowest: Books (1,862)
+    Highest: Electronics (34,982)
+    Lowest: Books (1,862)
 -2. Europe:
     - Highest: Home Appliances (18,646)
     - Lowest: Beauty Products (2,622)
