@@ -131,7 +131,8 @@ PayPal:European Market:Maintain strong PayPal payment options for European custo
 ## Analysed sales by region using my pivot table
 ![image alt](https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-09%20074056.png)
 
-
+## Top selling product category
+![image alt](https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-10%20094722.png)
 
 
 
