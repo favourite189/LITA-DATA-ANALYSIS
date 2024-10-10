@@ -39,7 +39,7 @@ using the sum formula
 =COUNT
 ```
 ### Performance of payment method on revenue in different region 
-https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-09%20074030.png
+![image alt](https://github.com/favourite189/LITA-DATA-ANALYSIS/blob/main/Screenshot%202024-10-09%20074030.png)
 
 1. Credit cards are the most popular payment method in North America and Asia with the total sales revenue of 36,844 and 14,327 respectively
 
