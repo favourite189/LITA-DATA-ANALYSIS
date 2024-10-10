@@ -69,19 +69,19 @@ Credit Card:  Target credit card marketing efforts in North America where it's m
 ### Conclusion
  Conduct market research to understand customer preferences and pin points in each region.
 
-#### Evaluation of Product Categories and Marketing Campaign Tailoring
+ #### Evaluation of Product Categories and Marketing Campaign Tailoring
 
 ## Regional Product Category Performance:
 
--1. North America:
-    Highest: Electronics (34,982)
-    Lowest: Books (1,862)
--2. Europe:
-    - Highest: Home Appliances (18,646)
-    - Lowest: Beauty Products (2,622)
--3. Asia:
-    - Highest: Sports (14,327)
-    - Lowest: Clothing (8,129)
+# North America:
+    -1.Highest: Electronics (34,982)
+    -2.Lowest: Books (1,862)
+ # Europe:
+    -1. Highest: Home Appliances (18,646)
+    -2. Lowest: Beauty Products (2,622)
+# Asia:
+    - 1.Highest: Sports (14,327)
+    - 2.Lowest: Clothing (8,129)
 
 ## Marketing Campaign Tailoring:
 
